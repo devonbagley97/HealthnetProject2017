@@ -1,5 +1,3 @@
-README
-
 Installation on a personal computer:
 
 Make sure Python 3.4.3 is installed.
